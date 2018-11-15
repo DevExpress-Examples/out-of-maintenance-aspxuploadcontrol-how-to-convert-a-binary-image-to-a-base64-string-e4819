@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [PhotoUtils.cs](./CS/App_Code/PhotoUtils.cs) (VB: [PhotoUtils.vb](./VB/App_Code/PhotoUtils.vb))
+* [Base64Converter.ascx](./CS/Base64Converter.ascx) (VB: [Base64Converter.ascx.vb](./VB/Base64Converter.ascx.vb))
+* [Base64Converter.ascx.cs](./CS/Base64Converter.ascx.cs) (VB: [Base64Converter.ascx.vb](./VB/Base64Converter.ascx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxUploadControl - How to convert a binary image to a base64 string
 
 
