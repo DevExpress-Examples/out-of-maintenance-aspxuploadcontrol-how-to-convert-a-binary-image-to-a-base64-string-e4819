@@ -3,7 +3,6 @@ Imports DevExpress.Web
 Imports System.Web.UI
 Imports System.IO
 Imports System.Drawing
-Imports DevExpress.Web.ASPxUploadControl
 
 Partial Public Class Base64Converter
     Inherits System.Web.UI.UserControl

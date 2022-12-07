@@ -1,5 +1,5 @@
 ﻿using System;
-using DevExpress.Web.ASPxUploadControl;
+using DevExpress.Web;
 using System.Web.UI;
 using System.IO;
 using System.Drawing;
